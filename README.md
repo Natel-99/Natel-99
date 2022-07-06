@@ -1,16 +1,15 @@
-### Hi there 👋
+## Bout me <3
+~~~
 
-<!--
-**Natel-99/Natel-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  👋 Hi, I’m @Natel-99 
+  👀 I’m interested in Science and Tech 
+  🌱 I’m currently learning Computer Science 
+  📫 Big love with Math and some silly stuffs
 
-Here are some ideas to get you started:
+~~~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p float='left'>
+<img src= 'https://github-readme-stats.vercel.app/api?username=Natel-99&show_icons=true&theme=radical' width="400">
+&nbsp;  
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Natel-99&layout=compact&theme=radical&langs_count=7" width="300"/>
+</p>
