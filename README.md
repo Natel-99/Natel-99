@@ -4,7 +4,7 @@
   👋 Hi, I’m @Natel-99 
   👀 I’m interested in Science and Tech 
   🌱 I’m currently learning Computer Science 
-  📫 Big love with Math and some silly stuffs
+  📫 Big love with Math and silly stuffs
 
 ~~~
 
