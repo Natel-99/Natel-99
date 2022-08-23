@@ -1,4 +1,4 @@
-## Bout me <3
+## About me <3
 ~~~
 
   👋 Hi, I’m @Natel-99 
